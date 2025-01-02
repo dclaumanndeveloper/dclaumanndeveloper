@@ -1,13 +1,13 @@
 #
 
-![](https://raw.githubusercontent.com/roodriiigooo/roodriiigooo/main/.assets/HEADER_1668444883110.png)
+<!--![](https://raw.githubusercontent.com/roodriiigooo/roodriiigooo/main/.assets/HEADER_1668444883110.png)-->
 
 ### Hi there 👋 
 #### I'm a brazilian Full-Stack Developer 
 ```csharp
  public class Rodrigo
  {
- 	public const string Name = "Rodrigo A. Melo";
+ 	public const string Name = "Diego Ramos Claumann";
 	public const string From = "Paraná/BR";
 	public List<string> Interests = new List<string>() { "Development", "Data Science", "Infosec" };
  }
