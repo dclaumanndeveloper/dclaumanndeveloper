@@ -17,7 +17,7 @@
  
 - 👩🏻‍💻 I'm currently working at **New Music Brasil**
 - ⚙️ I use: `.cs`, `.json`, `.edmx`, `.js`, `.xhtml`, `.css`, `.sql`, `.ts`, `.git` and a lot more!
-- 🧙 Learning all about **ReactJS**, **C#** and **SQL** 
+- 🧙 Learning all about **ReactJS**,**NextJS**,**Node**, **C#** and **SQL** 
 - 📫 Reach me: [linkedin.com/dclaumanndev](https://linkedin.com/in/dclaumanndev)
 - 🎬 Facts about me: I like tech, games, take things apart and i'm a huge fan of The Lord of the Rings and Harry Potter ⚡️
 - 💬 Ping me! Lets talk! 
