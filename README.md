@@ -31,7 +31,7 @@
 **Full Stack Developer** \
 [**New Music Brasil**](https://www.linkedin.com/company/newmusicbrasil.com.br) • Full-Time \
 Techs/Frameworks: `ReactJs`, `SQL`, `API REST`, `Web Apps`, and others\
-Featured Projects: Jarvis
+Featured Projects: SECRET
 <br/>
 
 
