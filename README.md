@@ -1,94 +1,129 @@
-#
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header&text=Diego%20R.%20Claumann&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descAlign=50"/>
+</div>
 
-![](https://raw.githubusercontent.com/roodriiigooo/roodriiigooo/main/.assets/HEADER_1668444883110.png)
+<div align="center">
+  
+### 👋 Hi there! I'm Diego
+#### 🇧🇷 Brazilian Full-Stack Developer
 
-### Hi there 👋 
-#### I'm a brazilian Full-Stack Developer 
+</div>
+
 ```csharp
- public class Diego
- {
- 	public const string Name = "Diego R. Claumann";
-	public const string From = "Paraná/BR";
-	public List<string> Interests = new List<string>() { "Development", "Database", "FullStack" };
- }
+public class Diego
+{
+    public const string Name = "Diego R. Claumann";
+    public const string From = "Paraná/BR";
+    public const string Role = "Full-Stack Developer";
+    public List<string> Interests = new List<string>() 
+    { 
+        "Development", 
+        "Database", 
+        "FullStack",
+        "Clean Code",
+        "Problem Solving"
+    };
+}
 ```
-##### BIO
 
- 
-- 👩🏻‍💻 I'm currently working at **New Music Brasil**
-- ⚙️ I use: `.cs`, `.json`, `.edmx`, `.js`, `.xhtml`, `.css`, `.sql`, `.ts`, `.git` and a lot more!
-- 🧙 Learning all about **ReactJS**,**NextJS**,**Node**, **C#** and **SQL** 
-- 📫 Reach me: [linkedin.com/dclaumanndev](https://linkedin.com/in/dclaumanndev)
-- 🎬 Facts about me: I like tech, games, take things apart and i'm a huge fan of The Lord of the Rings and Harry Potter ⚡️
-- 💬 Ping me! Lets talk! 
+---
 
-# 
-#### 
+## 📋 About Me
 
-##### Latest XP
+- 👨‍💻 Currently working at **New Music Brasil**
+- ⚙️ I use: `.cs`, `.json`, `.js`, `.ts`, `.jsx`, `.tsx`, `.sql`, `.css`, `.html` and more!
+- 🧙 Learning all about **ReactJS**, **NextJS**, **Node.js**, **C#** and **SQL**
+- 📫 Reach me: [linkedin.com/in/dclaumanndev](https://linkedin.com/in/dclaumanndev)
+- 🎬 Fun facts: I love tech, games, taking things apart, and I'm a huge fan of The Lord of the Rings 🧙‍♂️ and Harry Potter ⚡️
+- 💬 Let's talk! I'm always open to new opportunities and collaborations
 
+---
 
-**Full Stack Developer** \
-[**New Music Brasil**](https://www.linkedin.com/company/newmusicbrasil.com.br) • Full-Time \
-Techs/Frameworks: `ReactJs`, `SQL`, `API REST`, `Web Apps`, and others\
-Featured Projects: SECRET
-<br/>
+## 💼 Latest Experience
 
+**Full Stack Developer** @ [**New Music Brasil**](https://www.linkedin.com/company/newmusicbrasil.com.br) • Full-Time  
+📌 **Tech Stack:** `ReactJS`, `SQL`, `API REST`, `Web Applications`, `C#`, `.NET`  
+🚀 **Focus:** Building scalable web solutions and modern user interfaces
 
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-	
-#### You can learn more about me
-	
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
 
-<div align="center"><!--<a href="https://rodrigo.londrina.br/cv/profile.pdf" target="_blank"> -->
-	<img src="https://img.shields.io/badge/-Downloading%20My%20Resume%20(pt_BR)-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Diego's Resume"></a>
-<br>
-<br>
-	or
-<br>
-<br>
-<!--CONTATOS-->
-	<a href="https://www.linkedin.com/in/dclaumanndev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Diego's Linkedin" target="_blank"></a>
-    	<a href="mailto:dclaumanndeveloper@gmail.com?subject=[GitHub]%20🔥%20Entrando%20em%20contato&body=Ol%C3%A1%20Rodrigo%21%0AEstou%20entrando%20em%20contato%20com%20voc%C3%AA%20depois%20de%20ver%20seu%20Github%20para%20..."><img  alt="Diego's E-Mail" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-	<a href="https://www.instagram.com/dclaumanndev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>
-  	<a href="https://gitlab.com/dclaumanndev" target="_blank"><img src="https://img.shields.io/badge/-GitLab-%23333?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank" alt="Diego's Gitlab"></a> 
-  	  
-![](https://komarev.com/ghpvc/?username=dclaumanndev&style=for-the-badge&label=PROFILE+VIEWS)
+---
 
+## 📊 GitHub Statistics
 
-<!--/CONTATOS -->
-</div>
-
-#
-
-<div align="center">  <br>
-	<!--<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodriiigooo&layout=compact&hide_border=false&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
-	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roodriiigooo&show_icons=true&count_private=true&hide_border=false&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo's github stats" /> -->
-</div>
 <div align="center">
-	<!--/<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" /> -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dclaumanndeveloper&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Diego's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dclaumanndeveloper&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Diego's Most Used Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dclaumanndeveloper&theme=dark&hide_border=true&background=0d1117&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="Diego's GitHub Streak" />
+</div>
 
-<br><br>	
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dclaumanndeveloper&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Diego's GitHub Trophies" />
+</div>
 
+---
 
+## 📈 Activity Graph
 
-#
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dclaumanndeveloper&bg_color=0d1117&color=4169E1&line=4169E1&point=ffffff&area=true&hide_border=true" alt="Diego's Activity Graph" />
+</div>
 
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dclaumanndev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dclaumanndeveloper@gmail.com?subject=[GitHub]%20🔥%20Vamos%20conversar!&body=Olá%20Diego!%0AEstou%20entrando%20em%20contato%20com%20você%20depois%20de%20ver%20seu%20perfil%20no%20GitHub!)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dclaumanndev/)
+[![GitLab](https://img.shields.io/badge/-GitLab-%23333?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/dclaumanndev)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dclaumanndeveloper&style=for-the-badge&label=PROFILE+VIEWS&color=4169E1)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 👋 See you later!
+
+<br>
+
+<img src="https://github.com/dclaumanndeveloper/dclaumanndeveloper/blob/master/images/dino.gif?raw=true" width="400"/>
 
 <br><br>
-
-<div align="center">
-	
-### See ya! 👋
-
-	
-<br><br>
-
-<img src="https://github.com/dclaumanndeveloper/dclaumanndeveloper/blob/master/images/dino.gif?raw=true"/>
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
+  
 </div>
