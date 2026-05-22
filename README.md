@@ -3,9 +3,11 @@
 </div>
 
 <div align="center">
-  
+
 ### 👋 Hi there! I'm Diego
 #### 🇧🇷 Brazilian Full-Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4169E1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+C%23+%26+React;Building+scalable+web+applications;Always+learning+%26+solving+problems;Open+to+new+opportunities!" alt="Typing SVG" />
 
 </div>
 
@@ -83,11 +85,11 @@ public class Diego
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dclaumanndeveloper&theme=dark&hide_border=true&background=0d1117&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="Diego's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dclaumanndeveloper&theme=dark&hide_border=true&background=0d1117&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="Diego's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dclaumanndeveloper&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Diego's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dclaumanndeveloper&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6" alt="Diego's GitHub Trophies" />
 </div>
 
 ---
@@ -96,6 +98,18 @@ public class Diego
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dclaumanndeveloper&bg_color=0d1117&color=4169E1&line=4169E1&point=ffffff&area=true&hide_border=true" alt="Diego's Activity Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dclaumanndeveloper/dclaumanndeveloper/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dclaumanndeveloper/dclaumanndeveloper/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/dclaumanndeveloper/dclaumanndeveloper/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
