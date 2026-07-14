@@ -1,0 +1,16 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Thanks for stopping by">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="0%" r="85%">
+      <stop offset="0%" stop-color="#4169E1" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#4169E1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="130" fill="#0d1117"/>
+  <rect width="1200" height="130" fill="url(#glow)"/>
+
+  <rect x="558" y="26" width="84" height="3" rx="1.5" fill="#4169E1"/>
+
+  <text x="600" y="66" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#f0f3f9">Thanks for stopping by</text>
+  <text x="600" y="96" text-anchor="middle" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="15" fill="#8b949e">always up for talking code, games, or Middle-earth lore</text>
+</svg>

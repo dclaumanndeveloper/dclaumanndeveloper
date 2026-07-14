@@ -1,37 +1,40 @@
 <div align="center">
-
-# Diego Ramos Claumann
-
-**Full-Stack Developer** · Paraná, Brazil
-
-<img src="https://dummyimage.com/240x3/4169E1/4169E1.png" width="120" height="3" alt=""/>
-
+  <img src="images/banner.svg" alt="Diego Ramos Claumann — Full-Stack Developer, Paraná, Brazil" width="100%" />
 </div>
 
 <br>
 
-Full-stack developer building web products at **New Music Brasil**. I like pragmatic, well-structured code — and I'm usually the one taking things apart just to see how they work.
+<p align="center">
+Full-stack developer building web products at <strong>New Music Brasil</strong>. I like pragmatic, well-structured code — and I'm usually the one taking things apart just to see how they work.
+</p>
 
 <img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
-## Experience
+## 💼 Experience
 
 **Full Stack Developer** · [New Music Brasil](https://www.linkedin.com/company/newmusicbrasil.com.br) · Full-Time
 Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web solutions and modern user interfaces.
 
 <img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
-## Stack
+## 🧰 Stack
 
-| Area | Technologies |
-|---|---|
-| Languages | ![C#](https://img.shields.io/badge/C%23-4169E1?style=flat-square&logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-4169E1?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-4169E1?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-4169E1?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-4169E1?style=flat-square&logo=css&logoColor=white) |
-| Frameworks & Libraries | ![React](https://img.shields.io/badge/React-4169E1?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-4169E1?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-4169E1?style=flat-square&logo=nodedotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-4169E1?style=flat-square&logo=dotnet&logoColor=white) |
-| Tools | ![Git](https://img.shields.io/badge/Git-4169E1?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-4169E1?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-4169E1?style=flat-square&logo=gitlab&logoColor=white) ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-4169E1?style=flat-square&logo=vsc&logoColor=white) |
+<div align="center">
+
+**Languages**
+![C#](https://img.shields.io/badge/C%23-4169E1?style=flat-square&logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-4169E1?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-4169E1?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-4169E1?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-4169E1?style=flat-square&logo=css&logoColor=white)
+
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-4169E1?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-4169E1?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-4169E1?style=flat-square&logo=nodedotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-4169E1?style=flat-square&logo=dotnet&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-4169E1?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-4169E1?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-4169E1?style=flat-square&logo=gitlab&logoColor=white) ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-4169E1?style=flat-square&logo=vsc&logoColor=white)
+
+</div>
 
 <img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
-## Currently
+## 🧭 Currently
 
 - Sharpening my skills in **React**, **Next.js**, **Node.js**, **C#** and **SQL**
 - Big fan of *The Lord of the Rings* 🧙‍♂️ and *Harry Potter* ⚡️ — and generally curious about how things work
@@ -39,7 +42,7 @@ Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web 
 
 <img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
-## GitHub at a glance
+## 📊 GitHub at a glance
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dclaumanndeveloper&show_icons=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Diego's GitHub Stats" />
@@ -60,7 +63,7 @@ Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web 
 
 <img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
-## Connect
+## 📬 Connect
 
 <div align="center">
 
@@ -76,5 +79,7 @@ Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web 
 <br>
 
 <div align="center">
-  <img src="images/dino.gif" alt="Dino game animation" width="400"/>
+  <img src="images/footer.svg" alt="" width="100%" />
+  <br><br>
+  <img src="images/dino.gif" alt="Dino game animation" width="360"/>
 </div>
