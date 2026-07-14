@@ -10,12 +10,14 @@
 
 <br>
 
-## Now
+Full-stack developer building web products at **New Music Brasil**. I like pragmatic, well-structured code — and I'm usually the one taking things apart just to see how they work.
 
-- Building web applications at **New Music Brasil** as a Full-Stack Developer
-- Deepening my skills in **React**, **Next.js**, **Node.js**, **C#** and **SQL**
-- Into tech, games, and taking things apart — big fan of *The Lord of the Rings* 🧙‍♂️ and *Harry Potter* ⚡️
-- Open to new opportunities and collaborations — reach out at [linkedin.com/in/dclaumanndev](https://www.linkedin.com/in/dclaumanndev)
+<img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
+
+## Experience
+
+**Full Stack Developer** · [New Music Brasil](https://www.linkedin.com/company/newmusicbrasil.com.br) · Full-Time
+Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web solutions and modern user interfaces.
 
 <img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
@@ -29,10 +31,11 @@
 
 <img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
-## Experience
+## Currently
 
-**Full Stack Developer** · [New Music Brasil](https://www.linkedin.com/company/newmusicbrasil.com.br) · Full-Time
-Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web solutions and modern user interfaces.
+- Sharpening my skills in **React**, **Next.js**, **Node.js**, **C#** and **SQL**
+- Big fan of *The Lord of the Rings* 🧙‍♂️ and *Harry Potter* ⚡️ — and generally curious about how things work
+- Open to new opportunities and collaborations — [linkedin.com/in/dclaumanndev](https://www.linkedin.com/in/dclaumanndev)
 
 <img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
