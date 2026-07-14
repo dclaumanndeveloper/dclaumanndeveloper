@@ -17,6 +17,16 @@ Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web 
 
 <img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
+## 🎓 Education
+
+**Pós-graduação em Inteligência Artificial e Machine Learning** · UniCV · Concluído em 2026
+
+<div align="center">
+  <img src="images/ml-code.svg" alt="Animation of AI/ML Python code being typed" width="100%" />
+</div>
+
+<img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
+
 ## 🧰 Stack
 
 <div align="center">
