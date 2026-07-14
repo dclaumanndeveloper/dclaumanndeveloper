@@ -1,0 +1,28 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diego Ramos Claumann, Full-Stack Developer, Parana, Brazil">
+  <defs>
+    <radialGradient id="glow1" cx="12%" cy="20%" r="55%">
+      <stop offset="0%" stop-color="#4169E1" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#4169E1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="90%" cy="85%" r="60%">
+      <stop offset="0%" stop-color="#4169E1" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#4169E1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <rect width="1200" height="300" fill="url(#glow1)"/>
+  <rect width="1200" height="300" fill="url(#glow2)"/>
+
+  <g opacity="0.5" fill="none" stroke="#21304f" stroke-width="1">
+    <line x1="0" y1="60" x2="1200" y2="60"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+  </g>
+
+  <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#f0f3f9">Diego Ramos Claumann</text>
+  <text x="600" y="180" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" fill="#7f9cf5">Full-Stack Developer · Parana, Brazil</text>
+
+  <rect x="558" y="200" width="84" height="3" rx="1.5" fill="#4169E1"/>
+
+  <text x="600" y="245" text-anchor="middle" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="16" fill="#8b949e">&lt;/&gt; building web products at New Music Brasil</text>
+</svg>
