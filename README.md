@@ -44,6 +44,10 @@ Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web 
 </div>
 
 <div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dclaumanndeveloper&bg_color=0d1117&color=4169E1&line=4169E1&point=ffffff&area=true&hide_border=true" alt="Diego's commit activity by day" />
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dclaumanndeveloper/dclaumanndeveloper/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dclaumanndeveloper/dclaumanndeveloper/output/github-contribution-grid-snake.svg" />
