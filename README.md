@@ -4,6 +4,8 @@
 
 **Full-Stack Developer** · Paraná, Brazil
 
+<img src="https://dummyimage.com/240x3/4169E1/4169E1.png" width="120" height="3" alt=""/>
+
 </div>
 
 <br>
@@ -15,24 +17,24 @@
 - Into tech, games, and taking things apart — big fan of *The Lord of the Rings* 🧙‍♂️ and *Harry Potter* ⚡️
 - Open to new opportunities and collaborations — reach out at [linkedin.com/in/dclaumanndev](https://www.linkedin.com/in/dclaumanndev)
 
-<br>
+<img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
 ## Stack
 
 | Area | Technologies |
 |---|---|
-| Languages | C#, JavaScript, TypeScript, SQL, HTML5, CSS |
-| Frameworks & Libraries | React, Next.js, Node.js, .NET |
-| Tools | Git, GitHub, GitLab, VS Code |
+| Languages | ![C#](https://img.shields.io/badge/C%23-4169E1?style=flat-square&logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-4169E1?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-4169E1?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-4169E1?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-4169E1?style=flat-square&logo=css&logoColor=white) |
+| Frameworks & Libraries | ![React](https://img.shields.io/badge/React-4169E1?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-4169E1?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-4169E1?style=flat-square&logo=nodedotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-4169E1?style=flat-square&logo=dotnet&logoColor=white) |
+| Tools | ![Git](https://img.shields.io/badge/Git-4169E1?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-4169E1?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-4169E1?style=flat-square&logo=gitlab&logoColor=white) ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-4169E1?style=flat-square&logo=vsc&logoColor=white) |
 
-<br>
+<img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
 ## Experience
 
 **Full Stack Developer** · [New Music Brasil](https://www.linkedin.com/company/newmusicbrasil.com.br) · Full-Time
 Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web solutions and modern user interfaces.
 
-<br>
+<img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
 ## GitHub at a glance
 
@@ -49,18 +51,18 @@ Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web 
   </picture>
 </div>
 
-<br>
+<img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
 
 ## Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dclaumanndev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dclaumanndeveloper@gmail.com?subject=[GitHub]%20Let's%20talk!&body=Hi%20Diego!%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20get%20in%20touch.)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dclaumanndev/)
-[![GitLab](https://img.shields.io/badge/-GitLab-%23333?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/dclaumanndev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4169E1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dclaumanndev)
+[![Email](https://img.shields.io/badge/Email-4169E1?style=flat-square&logo=gmail&logoColor=white)](mailto:dclaumanndeveloper@gmail.com?subject=[GitHub]%20Let's%20talk!&body=Hi%20Diego!%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20get%20in%20touch.)
+[![Instagram](https://img.shields.io/badge/Instagram-4169E1?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dclaumanndev/)
+[![GitLab](https://img.shields.io/badge/GitLab-4169E1?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/dclaumanndev)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dclaumanndeveloper&style=for-the-badge&label=PROFILE+VIEWS&color=4169E1)
+![Profile Views](https://komarev.com/ghpvc/?username=dclaumanndeveloper&style=flat-square&label=PROFILE+VIEWS&color=4169E1)
 
 </div>
 
