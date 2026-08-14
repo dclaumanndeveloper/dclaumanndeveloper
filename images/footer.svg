@@ -1,16 +1,39 @@
-<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Thanks for stopping by">
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Thanks for stopping by">
   <defs>
-    <radialGradient id="glow" cx="50%" cy="0%" r="85%">
+    <radialGradient id="footerglow" cx="50%" cy="0%" r="85%">
       <stop offset="0%" stop-color="#4169E1" stop-opacity="0.28"/>
       <stop offset="100%" stop-color="#4169E1" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
-  <rect width="1200" height="130" fill="#0d1117"/>
-  <rect width="1200" height="130" fill="url(#glow)"/>
+  <rect width="1200" height="160" fill="#0d1117"/>
+  <rect width="1200" height="160" fill="url(#footerglow)"/>
 
-  <rect x="558" y="26" width="84" height="3" rx="1.5" fill="#4169E1"/>
+  <!-- animated wave at bottom -->
+  <path fill="#4169E1" fill-opacity="0.12">
+    <animate attributeName="d"
+      values="M0,120 C200,100 400,140 600,120 C800,100 1000,140 1200,120 L1200,160 L0,160 Z;
+              M0,130 C200,110 400,150 600,130 C800,110 1000,150 1200,130 L1200,160 L0,160 Z;
+              M0,120 C200,100 400,140 600,120 C800,100 1000,140 1200,120 L1200,160 L0,160 Z"
+      dur="4s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#4169E1" fill-opacity="0.08">
+    <animate attributeName="d"
+      values="M0,135 C300,115 600,155 900,135 C1050,125 1150,145 1200,140 L1200,160 L0,160 Z;
+              M0,140 C300,120 600,160 900,140 C1050,130 1150,150 1200,145 L1200,160 L0,160 Z;
+              M0,135 C300,115 600,155 900,135 C1050,125 1150,145 1200,140 L1200,160 L0,160 Z"
+      dur="5.5s" repeatCount="indefinite"/>
+  </path>
 
-  <text x="600" y="66" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#f0f3f9">Thanks for stopping by</text>
-  <text x="600" y="96" text-anchor="middle" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="15" fill="#8b949e">always up for talking code, games, or Middle-earth lore</text>
+  <rect x="558" y="22" width="84" height="3" rx="1.5" fill="#4169E1"/>
+
+  <!-- text with fade-in -->
+  <text x="600" y="62" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#f0f3f9" opacity="0">
+    Thanks for stopping by
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3;1" dur="1.5s" fill="freeze"/>
+  </text>
+  <text x="600" y="92" text-anchor="middle" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="15" fill="#8b949e" opacity="0">
+    always up for talking code, games, or Middle-earth lore
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" dur="2s" fill="freeze"/>
+  </text>
 </svg>

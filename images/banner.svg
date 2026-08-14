@@ -8,21 +8,74 @@
       <stop offset="0%" stop-color="#4169E1" stop-opacity="0.28"/>
       <stop offset="100%" stop-color="#4169E1" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="shimmer" x1="-100%" y1="0" x2="200%" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f0f3f9" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#f0f3f9" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="55%" stop-color="#f0f3f9" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#f0f3f9" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1200 0;1200 0;1200 0" keyTimes="0;0.45;1" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
   </defs>
 
   <rect width="1200" height="300" fill="#0d1117"/>
   <rect width="1200" height="300" fill="url(#glow1)"/>
   <rect width="1200" height="300" fill="url(#glow2)"/>
 
+  <!-- grid lines -->
   <g opacity="0.5" fill="none" stroke="#21304f" stroke-width="1">
     <line x1="0" y1="60" x2="1200" y2="60"/>
     <line x1="0" y1="240" x2="1200" y2="240"/>
   </g>
 
+  <!-- floating particles -->
+  <circle cx="120" cy="200" r="2.5" fill="#4169E1" opacity="0.4">
+    <animate attributeName="cy" values="200;185;200" dur="5.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.7;0.4" dur="5.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="230" cy="80" r="1.8" fill="#4169E1" opacity="0.3">
+    <animate attributeName="cy" values="80;68;80" dur="4.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="4.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="420" cy="250" r="2" fill="#7f9cf5" opacity="0.35">
+    <animate attributeName="cy" values="250;238;250" dur="6.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.6;0.35" dur="6.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="680" cy="55" r="1.5" fill="#4169E1" opacity="0.25">
+    <animate attributeName="cy" values="55;44;55" dur="3.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;0.5;0.25" dur="3.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="230" r="3" fill="#4169E1" opacity="0.3">
+    <animate attributeName="cy" values="230;216;230" dur="7.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="7.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="970" cy="90" r="2" fill="#7f9cf5" opacity="0.3">
+    <animate attributeName="cy" values="90;78;90" dur="5.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="5.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="200" r="1.8" fill="#4169E1" opacity="0.35">
+    <animate attributeName="cy" values="200;188;200" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.6;0.35" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60" cy="140" r="1.5" fill="#7f9cf5" opacity="0.2">
+    <animate attributeName="cy" values="140;130;140" dur="6.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.45;0.2" dur="6.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1150" cy="130" r="2.2" fill="#4169E1" opacity="0.25">
+    <animate attributeName="cy" values="130;118;130" dur="5.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;0.5;0.25" dur="5.0s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- name text with shimmer overlay -->
   <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#f0f3f9">Diego Ramos Claumann</text>
+  <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="url(#shimmer)">Diego Ramos Claumann</text>
+
   <text x="600" y="180" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" fill="#7f9cf5">Full-Stack Developer · Parana, Brazil</text>
 
   <rect x="558" y="200" width="84" height="3" rx="1.5" fill="#4169E1"/>
 
+  <!-- tagline with blinking cursor -->
   <text x="600" y="245" text-anchor="middle" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="16" fill="#8b949e">&lt;/&gt; building web products at New Music Brasil</text>
+  <text x="855" y="245" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="16" fill="#4169E1">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.2s" repeatCount="indefinite"/>|</text>
 </svg>
