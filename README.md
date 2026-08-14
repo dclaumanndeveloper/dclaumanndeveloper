@@ -8,14 +8,14 @@
 Full-stack developer building web products at <strong>New Music Brasil</strong>. I like pragmatic, well-structured code — and I'm usually the one taking things apart just to see how they work.
 </p>
 
-<img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
+<img src="images/divider.svg" width="100%" alt=""/>
 
 ## 💼 Experience
 
 **Full Stack Developer** · [New Music Brasil](https://www.linkedin.com/company/newmusicbrasil.com.br) · Full-Time
 Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web solutions and modern user interfaces.
 
-<img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
+<img src="images/divider.svg" width="100%" height="2" alt=""/>
 
 ## 🎓 Education
 
@@ -25,7 +25,7 @@ Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web 
   <img src="images/ml-code.svg" alt="Animation of AI/ML Python code being typed" width="100%" />
 </div>
 
-<img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
+<img src="images/divider.svg" width="100%" height="2" alt=""/>
 
 ## 🧰 Stack
 
@@ -42,7 +42,7 @@ Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web 
 
 </div>
 
-<img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
+<img src="images/divider.svg" width="100%" height="2" alt=""/>
 
 ## 🧭 Currently
 
@@ -50,7 +50,7 @@ Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web 
 - Big fan of *The Lord of the Rings* 🧙‍♂️ and *Harry Potter* ⚡️ — and generally curious about how things work
 - Open to new opportunities and collaborations — [linkedin.com/in/dclaumanndev](https://www.linkedin.com/in/dclaumanndev)
 
-<img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
+<img src="images/divider.svg" width="100%" height="2" alt=""/>
 
 ## 📊 GitHub at a glance
 
@@ -71,7 +71,7 @@ Working with `React`, `SQL`, `REST APIs`, `C#` and `.NET` to build scalable web 
   </picture>
 </div>
 
-<img src="https://dummyimage.com/1200x2/4169E1/4169E1.png" width="100%" height="2" alt=""/>
+<img src="images/divider.svg" width="100%" height="2" alt=""/>
 
 ## 📬 Connect
 
