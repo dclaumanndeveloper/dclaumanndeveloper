@@ -12,10 +12,24 @@ Desenvolvedor Full Stack na <strong>New Music Brasil</strong>, trabalhando com R
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dclaumanndev">LinkedIn</a> ·
-  <a href="mailto:dclaumanndeveloper@gmail.com">Email</a>
+  <a href="mailto:dclaumanndeveloper@gmail.com">Email</a> ·
+  <a href="#-projetos-em-destaque">Projetos</a> ·
+  <a href="#-tecnologias-principais">Stack</a>
 </p>
 
 <img src="images/divider.svg" width="100%" alt="" />
+
+## ✨ O que eu construo
+
+Gosto de transformar ideias em software útil e sustentável — de interfaces responsivas e APIs REST a automações e experimentos práticos de machine learning.
+
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>Produtos web</strong><br />Interfaces que conectam pessoas, fluxos e dados.</td>
+    <td width="33%" align="center"><strong>Backends confiáveis</strong><br />APIs com regras claras, autenticação e testes.</td>
+    <td width="33%" align="center"><strong>Automação prática</strong><br />Ferramentas que deixam o trabalho do dia a dia mais simples.</td>
+  </tr>
+</table>
 
 ## 🚀 Projetos em destaque
 
@@ -116,10 +130,11 @@ Para conhecer uma aplicação prática dos meus interesses nessa área, explore 
 
 <img src="images/divider.svg" width="100%" alt="" />
 
-## 🧭 Atualmente
+## 🧭 Explorando agora
 
+- Construindo e refinando produtos web com React, C#/.NET, SQL e APIs REST.
 - Aprofundando meus conhecimentos em React, Next.js, Node.js, C# e SQL.
-- Aberto a novas oportunidades e colaborações.
+- Aberto a oportunidades, colaborações e boas conversas técnicas.
 - Fã de *O Senhor dos Anéis* 🧙‍♂️ e *Harry Potter* ⚡️ — e curioso sobre como as coisas funcionam.
 
 <img src="images/divider.svg" width="100%" alt="" />

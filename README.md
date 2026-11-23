@@ -12,10 +12,24 @@ Full-stack developer building web products at <strong>New Music Brasil</strong>,
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dclaumanndev">LinkedIn</a> ·
-  <a href="mailto:dclaumanndeveloper@gmail.com">Email</a>
+  <a href="mailto:dclaumanndeveloper@gmail.com">Email</a> ·
+  <a href="#-featured-projects">Projects</a> ·
+  <a href="#-main-stack">Stack</a>
 </p>
 
 <img src="images/divider.svg" width="100%" alt="" />
+
+## ✨ What I build
+
+I enjoy turning ideas into useful, maintainable software — from responsive interfaces and REST APIs to automation and applied machine-learning experiments.
+
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>Web products</strong><br />Interfaces that connect people, workflows and data.</td>
+    <td width="33%" align="center"><strong>Reliable backends</strong><br />APIs with clear rules, authentication and tests.</td>
+    <td width="33%" align="center"><strong>Practical automation</strong><br />Tools that make everyday work a little simpler.</td>
+  </tr>
+</table>
 
 ## 🚀 Featured projects
 
@@ -116,10 +130,11 @@ For a practical example of my interests in this area, explore [MLImoveis](https:
 
 <img src="images/divider.svg" width="100%" alt="" />
 
-## 🧭 Currently
+## 🧭 Currently exploring
 
+- Building and refining web products with React, C#/.NET, SQL and REST APIs.
 - Deepening my skills in React, Next.js, Node.js, C# and SQL.
-- Open to new opportunities and collaborations.
+- Open to opportunities, collaborations and good technical conversations.
 - Big fan of *The Lord of the Rings* 🧙‍♂️ and *Harry Potter* ⚡️ — and generally curious about how things work.
 
 <img src="images/divider.svg" width="100%" alt="" />
