@@ -33,6 +33,18 @@ I enjoy turning ideas into useful, maintainable software — from responsive int
 
 ## 🚀 Featured projects
 
+### [Inventiva Apps](https://www.inventivaapps.com.br)
+
+<a href="https://www.inventivaapps.com.br"><img src="images/project-inventiva.svg" alt="Inventiva Apps" width="100%" /></a>
+
+Website and admin panel for the Inventiva Apps software house, live in production.
+
+- **Stack:** Next.js 16, React 19, TypeScript, PostgreSQL with Drizzle ORM, NextAuth and Storybook, deployed on Vercel.
+- **Explore:** Content management for cases, posts, careers and leads, with role-based access and analytics.
+- **Quality:** Content Security Policy with nonces, input validation with Zod and rate limiting.
+
+[Visit the website](https://www.inventivaapps.com.br) · Private repository
+
 ### [PeopleBuy API 3.0](https://github.com/dclaumanndeveloper/PeopleBuyAPI3.0)
 
 <a href="https://github.com/dclaumanndeveloper/PeopleBuyAPI3.0"><img src="images/project-peoplebuy.svg" alt="PeopleBuy API 3.0" width="100%" /></a>
@@ -83,6 +95,7 @@ Working on web products with React, C#/.NET, SQL and REST APIs, connecting user 
 <p align="center"><strong>Frontend</strong></p>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-4169E1?style=for-the-badge&amp;logo=react&amp;logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-4169E1?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-4169E1?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-4169E1?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-4169E1?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
@@ -91,7 +104,7 @@ Working on web products with React, C#/.NET, SQL and REST APIs, connecting user 
 
 <p align="center"><strong>Backend</strong></p>
 <p align="center">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-4169E1?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-4169E1?style=for-the-badge" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-4169E1?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-4169E1?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" />
   <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-4169E1?style=for-the-badge" />
@@ -99,6 +112,8 @@ Working on web products with React, C#/.NET, SQL and REST APIs, connecting user 
 
 <p align="center"><strong>Data</strong></p>
 <p align="center">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-4169E1?style=for-the-badge" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge" />
 </p>
 
@@ -112,6 +127,7 @@ Working on web products with React, C#/.NET, SQL and REST APIs, connecting user 
 
 <p align="center"><strong>Tools</strong></p>
 <p align="center">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-4169E1?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-4169E1?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-4169E1?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-4169E1?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" />
@@ -133,7 +149,8 @@ For a practical example of my interests in this area, explore [MLImoveis](https:
 ## 🧭 Currently exploring
 
 - Building and refining web products with React, C#/.NET, SQL and REST APIs.
-- Deepening my skills in React, Next.js, Node.js, C# and SQL.
+- Shipping full-stack Next.js and PostgreSQL apps to production, like the Inventiva Apps website.
+- Deepening my skills in Node.js, C# and SQL.
 - Open to opportunities, collaborations and good technical conversations.
 - Big fan of *The Lord of the Rings* 🧙‍♂️ and *Harry Potter* ⚡️ — and generally curious about how things work.
 
@@ -142,12 +159,12 @@ For a practical example of my interests in this area, explore [MLImoveis](https:
 ## 📊 GitHub activity
 
 <div align="center">
-  <a href="https://github.com/dclaumanndeveloper?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=dclaumanndeveloper&amp;show_icons=true&amp;hide_border=true&amp;title_color=7f9cf5&amp;icon_color=4169E1&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Diego's GitHub statistics" height="165" /></a>
+  <a href="https://github.com/dclaumanndeveloper?tab=repositories"><img src="https://github-readme-stats-six-tau-30.vercel.app/api?username=dclaumanndeveloper&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=7f9cf5&amp;icon_color=4169E1&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Diego's GitHub statistics" height="165" /></a>
   <img src="https://streak-stats.demolab.com?user=dclaumanndeveloper&amp;hide_border=true&amp;background=0D1117&amp;ring=4169E1&amp;fire=7F9CF5&amp;currStreakLabel=7F9CF5&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;sideNums=F0F6FC&amp;currStreakNum=F0F6FC" alt="Diego's contribution streak" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dclaumanndeveloper&amp;layout=compact&amp;hide_border=true&amp;title_color=7f9cf5&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Diego's most-used languages" height="165" />
+  <img src="https://github-readme-stats-six-tau-30.vercel.app/api/top-langs/?username=dclaumanndeveloper&amp;layout=compact&amp;hide_border=true&amp;title_color=7f9cf5&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Diego's most-used languages" height="165" />
 </div>
 
 <div align="center">
@@ -164,6 +181,4 @@ For a practical example of my interests in this area, explore [MLImoveis](https:
 
 <div align="center">
   <img src="images/footer.svg" alt="" width="100%" />
-  <br /><br />
-  <img src="images/dino.gif" alt="Dinosaur game animation" width="360" />
 </div>

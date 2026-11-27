@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title desc">
+<title id="title">Inventiva Apps</title>
+<desc id="desc">WEB — Next.js / TypeScript / PostgreSQL</desc>
+<defs><linearGradient id="bg"><stop stop-color="#111c33"/><stop offset="1" stop-color="#0d1117"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M 24 0 L 0 0 0 24" fill="none" stroke="#4169e1" stroke-opacity=".10"/></pattern></defs>
+<rect x="1" y="1" width="958" height="178" rx="16" fill="url(#bg)" stroke="#293a5b"/>
+<rect x="1" y="1" width="958" height="178" rx="16" fill="url(#grid)"/>
+<rect x="1" y="36" width="4" height="108" rx="2" fill="#7f9cf5"/>
+<rect x="36" y="38" width="100" height="100" rx="20" fill="#7f9cf5" fill-opacity=".08" stroke="#7f9cf5" stroke-opacity=".4"/>
+<g fill="none" stroke="#7f9cf5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x="56" y="64" width="60" height="48" rx="6"/><path d="M56 76 H116"/><path d="M66 92 H90 M66 102 H82"/><circle cx="104" cy="98" r="5"/></g>
+<text x="166" y="77" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#f0f3f9">Inventiva Apps</text>
+<text x="166" y="114" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#aab8d0">Next.js / TypeScript / PostgreSQL</text>
+<rect x="784" y="67" width="136" height="38" rx="19" fill="#7f9cf5" fill-opacity=".12" stroke="#7f9cf5" stroke-opacity=".35"/>
+<text x="852" y="92" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#7f9cf5">WEB</text>
+</svg>
