@@ -159,12 +159,12 @@ Para conhecer uma aplicação prática dos meus interesses nessa área, explore 
 ## 📊 Atividade no GitHub
 
 <div align="center">
-  <a href="https://github.com/dclaumanndeveloper?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=dclaumanndeveloper&amp;show_icons=true&amp;hide_border=true&amp;title_color=7f9cf5&amp;icon_color=4169E1&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Estatísticas do GitHub de Diego" height="165" /></a>
+  <a href="https://github.com/dclaumanndeveloper?tab=repositories"><img src="https://github-readme-stats-six-tau-30.vercel.app/api?username=dclaumanndeveloper&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=7f9cf5&amp;icon_color=4169E1&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Estatísticas do GitHub de Diego" height="165" /></a>
   <img src="https://streak-stats.demolab.com?user=dclaumanndeveloper&amp;hide_border=true&amp;background=0D1117&amp;ring=4169E1&amp;fire=7F9CF5&amp;currStreakLabel=7F9CF5&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;sideNums=F0F6FC&amp;currStreakNum=F0F6FC" alt="Sequência de contribuições de Diego" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dclaumanndeveloper&amp;layout=compact&amp;hide_border=true&amp;title_color=7f9cf5&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Linguagens mais usadas por Diego" height="165" />
+  <img src="https://github-readme-stats-six-tau-30.vercel.app/api/top-langs/?username=dclaumanndeveloper&amp;layout=compact&amp;hide_border=true&amp;title_color=7f9cf5&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Linguagens mais usadas por Diego" height="165" />
 </div>
 
 <div align="center">
