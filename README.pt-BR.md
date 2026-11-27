@@ -33,6 +33,18 @@ Gosto de transformar ideias em software útil e sustentável — de interfaces r
 
 ## 🚀 Projetos em destaque
 
+### [Inventiva Apps](https://www.inventivaapps.com.br)
+
+<a href="https://www.inventivaapps.com.br"><img src="images/project-inventiva.svg" alt="Inventiva Apps" width="100%" /></a>
+
+Site e painel administrativo da software house Inventiva Apps, em produção.
+
+- **Tecnologias:** Next.js 16, React 19, TypeScript, PostgreSQL com Drizzle ORM, NextAuth e Storybook, com deploy na Vercel.
+- **Para explorar:** Gestão de conteúdo para cases, posts, vagas e leads, com controle de acesso por papel e analytics.
+- **Qualidade:** Content Security Policy com nonce, validação de entrada com Zod e rate limiting.
+
+[Acessar o site](https://www.inventivaapps.com.br) · Repositório privado
+
 ### [PeopleBuy API 3.0](https://github.com/dclaumanndeveloper/PeopleBuyAPI3.0)
 
 <a href="https://github.com/dclaumanndeveloper/PeopleBuyAPI3.0"><img src="images/project-peoplebuy.svg" alt="PeopleBuy API 3.0" width="100%" /></a>
@@ -83,6 +95,7 @@ Trabalho em produtos web com React, C#/.NET, SQL e APIs REST, conectando interfa
 <p align="center"><strong>Frontend</strong></p>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-4169E1?style=for-the-badge&amp;logo=react&amp;logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-4169E1?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-4169E1?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-4169E1?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-4169E1?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
@@ -91,7 +104,7 @@ Trabalho em produtos web com React, C#/.NET, SQL e APIs REST, conectando interfa
 
 <p align="center"><strong>Backend</strong></p>
 <p align="center">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-4169E1?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-4169E1?style=for-the-badge" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-4169E1?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-4169E1?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" />
   <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-4169E1?style=for-the-badge" />
@@ -99,6 +112,8 @@ Trabalho em produtos web com React, C#/.NET, SQL e APIs REST, conectando interfa
 
 <p align="center"><strong>Dados</strong></p>
 <p align="center">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-4169E1?style=for-the-badge" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge" />
 </p>
 
@@ -112,6 +127,7 @@ Trabalho em produtos web com React, C#/.NET, SQL e APIs REST, conectando interfa
 
 <p align="center"><strong>Ferramentas</strong></p>
 <p align="center">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-4169E1?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-4169E1?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-4169E1?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-4169E1?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" />
@@ -133,7 +149,8 @@ Para conhecer uma aplicação prática dos meus interesses nessa área, explore 
 ## 🧭 Explorando agora
 
 - Construindo e refinando produtos web com React, C#/.NET, SQL e APIs REST.
-- Aprofundando meus conhecimentos em React, Next.js, Node.js, C# e SQL.
+- Colocando em produção aplicações full stack com Next.js e PostgreSQL, como o site da Inventiva Apps.
+- Aprofundando meus conhecimentos em Node.js, C# e SQL.
 - Aberto a oportunidades, colaborações e boas conversas técnicas.
 - Fã de *O Senhor dos Anéis* 🧙‍♂️ e *Harry Potter* ⚡️ — e curioso sobre como as coisas funcionam.
 
@@ -164,6 +181,4 @@ Para conhecer uma aplicação prática dos meus interesses nessa área, explore 
 
 <div align="center">
   <img src="images/footer.svg" alt="" width="100%" />
-  <br /><br />
-  <img src="images/dino.gif" alt="Animação do jogo do dinossauro" width="360" />
 </div>
